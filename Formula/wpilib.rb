@@ -1,8 +1,8 @@
 class Wpilib < Formula
   desc "Open source computer vision library"
   homepage "https://github.com/wpilibsuite/allwpilib"
-  url "https://github.com/wpilibsuite/allwpilib/archive/refs/tags/v2022.2.1.tar.gz"
-  sha256 "d2ab87ef01c1b4e551a8ea4bf84c1a18a84408cfcf61f59e07680420a920f96d"
+  url "https://github.com/wpilibsuite/allwpilib/archive/refs/tags/v2022.4.1.tar.gz"
+  sha256 "0c5adb29655098e45b348baef46dca6f80c3877688d73f78aa7be1ca03a50ea1"
   license :cannot_represent
 
   keg_only "because it installs in a way that breaks cmake package search"
